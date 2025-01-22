@@ -2,7 +2,7 @@
 
 VehiRent is a simple console-based application for a vehicle renting system. It offers users the ability to login, sign up, book rides, and rent cars. The system keeps track of available cars and calculates fares based on car type and travel distance.
 
- #Features
+ # Features
 
 1.  Authentication System
 
